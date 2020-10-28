@@ -1,7 +1,12 @@
 Zmiana1
 Zmiana10
 <<<<<<< HEAD
+<<<<<<< HEAD
 Zmiana14
 =======
 Zmiana13
 >>>>>>> 12d28b7f857d2795092166a577240702a4c809d4
+=======
+Zmiana13
+Zmiana14b
+>>>>>>> 90de3ac04029e03070683550f205ce6bca7f33d3
