@@ -10,3 +10,4 @@ Zmiana13
 Zmiana13
 Zmiana14b
 >>>>>>> 90de3ac04029e03070683550f205ce6bca7f33d3
+Zmiana14
